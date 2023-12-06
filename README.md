@@ -18,8 +18,6 @@ Contas a Receber: O sistema permitirá que as vendas a crédito sejam registrada
 
 Armazenamento e Recuperação de Dados: Todas as informações inseridas no sistema, incluindo produtos, vendas e contas a receber, serão persistidas em disco para garantir a integridade dos dados. Essa abordagem também permitirá a recuperação de informações mesmo após o encerramento do sistema.
 
-Geração de Relatórios: O sistema será capaz de gerar relatórios sobre vendas realizadas, status do estoque e contas a receber. Esses relatórios poderão ser visualizados diretamente na tela, facilitando a tomada de decisões pelos gestores do comércio.
-
 O desenvolvimento do sistema poderá passar por ajustes e melhorias conforme as necessidades surgirem durante o processo. O foco será sempre garantir a usabilidade e a eficiência das funcionalidades oferecidas, a fim de proporcionar uma experiência positiva aos usuários.
 O resultado final será um sistema de controle de estoque e vendas a crédito que atenderá às demandas específicas de diversos tipos de comércios, facilitando o gerenciamento das operações diárias e a tomada de decisões estratégicas.
 
